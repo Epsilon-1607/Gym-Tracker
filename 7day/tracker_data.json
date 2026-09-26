@@ -1,0 +1,33 @@
+{
+    "menu": {
+        "Day 1": {
+            "name": "Push Day 1",
+            "desc": "Focus: Chest, Shoulders, Triceps"
+        },
+        "Day 2": {
+            "name": "Pull Day 1",
+            "desc": "Focus: Back, Biceps, Rear Delts"
+        },
+        "Day 3": {
+            "name": "Leg Day",
+            "desc": "Focus: Quads, Hamstrings, Calves"
+        },
+        "Day 4": {
+            "name": "Rest 1",
+            "desc": "Active recovery or complete rest"
+        },
+        "Day 5": {
+            "name": "Push Day 2",
+            "desc": "Focus: Chest, Shoulders, Triceps"
+        },
+        "Day 6": {
+            "name": "Pull Day 2",
+            "desc": "Focus: Back thickness, Bicep isolation"
+        },
+        "Day 7": {
+            "name": "Rest 2",
+            "desc": "Complete rest. Prepare for next week."
+        }
+    },
+    "violations": []
+}
